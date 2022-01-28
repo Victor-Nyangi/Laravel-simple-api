@@ -31,7 +31,6 @@ and it has the following required parameters
 - Run __php artisan key:generate__
 - Run __php artisan migrate__  (it has some seeded data)
 
-- Run __npm i && npm run dev__ to install node modules and build assets
 - Create a _database.sqlite_ file in the _database_ directory
 
 - Run __php artisan serve__
