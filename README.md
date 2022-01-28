@@ -29,9 +29,9 @@ and it has the following required parameters
 
 - Run __composer install__
 - Run __php artisan key:generate__
+- Create a _database.sqlite_ file in the _database_ directory
 - Run __php artisan migrate__  (it has some seeded data)
 
-- Create a _database.sqlite_ file in the _database_ directory
 
 - Run __php artisan serve__
 
